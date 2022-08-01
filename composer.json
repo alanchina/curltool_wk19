@@ -1,0 +1,18 @@
+{
+    "name": "wk_19/curl-test",
+    "description": "tool",
+    "type": "library",
+    "license": "this is test",
+    "autoload": {
+        "psr-4": {
+            "Wk19\\CurlTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
